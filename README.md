@@ -24,7 +24,7 @@
 
 [![Linkedin: GaneshSabbani](https://img.shields.io/badge/-GaneshSabbani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganesh-sabbani63/)](https://www.linkedin.com/in/ganesh-sabbani63/)
 [![GitHub GaneshSabbani](https://img.shields.io/github/followers/iampawan?label=FollowMeHere&style=social)](https://github.com/Ganeshsabbani)
-[![website](https://img.shields.io/badge/PortfolioWebsite-GaneshSabbani.live-2648ff?style=flat-square&logo=google-chrome)](https://github.com/Ganeshsabbani)
+[![website](https://img.shields.io/badge/PortfolioWebsite-GaneshSabbani.live-2648ff?style=flat-square&logo=google-chrome)](https://ganeshsabbani.github.io/myPortfolio/)
 
 
 **Languages and Tools:**  
