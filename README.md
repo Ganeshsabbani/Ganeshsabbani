@@ -16,7 +16,7 @@
 
 
 - 🔭 I’m currently learning Full Stack Web Development With Web3 @  Almabetter
-- 🌱 I currently acquired skills like HTML5 CSS JAVASCRIPT BOOTSTRAP
+- 🌱 I currently acquired skills like HTML5 CSS JAVASCRIPT BOOTSTRAP REACT REDUX
 - 🤔 I’m looking for help with career guidance.
 - 📫 How to reach me: [Linkedin - @GaneshSabbani](https://www.linkedin.com/in/ganesh-sabbani63/) 
 - 😄 Pronouns: He/His
