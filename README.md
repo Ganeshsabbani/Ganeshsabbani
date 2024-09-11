@@ -15,9 +15,8 @@
 
 
 
-- 🔭 I’m currently learning Full Stack Web Development With Web3 @  Almabetter
-- 🌱 I currently acquired skills like HTML5 CSS JAVASCRIPT BOOTSTRAP REACT REDUX
-- 🤔 I’m looking for help with career guidance.
+- 🔭 I’m currently working as a SDE-1 @ Vidyuttech
+- 🌱 I currently acquired skills like JAVASCRIPT REACT REACT NATIVE NEXTJS REDUX RESTAPI HTML CSS BOOTSTRAP TAILWINDCSS ANTD
 - 📫 How to reach me: [Linkedin - @GaneshSabbani](https://www.linkedin.com/in/ganesh-sabbani63/) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
